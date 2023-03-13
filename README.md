@@ -24,6 +24,7 @@ Dizinin elemanlarını giriniz :
 Sıralama : -2121 -2 0 1 99
 
 
+
 Dizinin boyutu n : 6
 
 Dizinin elemanlarını giriniz :
